@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.carousel-item {
+    max-width: fit-content;
+}
+
+.titulos {
+    margin-top: 10px;
+}
+
+.carousel {
+    margin-top: 10px;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+#acote1 {
+    color:rgb(67, 255, 9);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Cairo', sans-serif;
+}
+
+.card {
+    max-width: 100%;
+}
+
+.card-img-top {
+    max-width: 800px;
+    max-height: 300px;
+}
+
+.cards-editables {
+    max-width: 800px;
+    max-height: 250px;
+}
+
+.cards-editables-2 {
+    max-width: 100%;
+    max-height: 350px;
+}
+
+#enviar {
+    width: 300px;
+    font-size: 16pt;
+    margin: 0 auto;
+}
+
+#enviar:hover {
+    background-color: rgb(29, 255, 67);
+    color: black;
+    font-weight: 600;
+}

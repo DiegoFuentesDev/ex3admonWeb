@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Cairo', sans-serif;
+    /* color: white; */
+}
+
+p {
+    text-align: justify;
+}
+
+.card {
+    max-width: 100%;
+}
+
+.card-img-top {
+    max-width: 800px;
+    max-height: 300px;
+}
