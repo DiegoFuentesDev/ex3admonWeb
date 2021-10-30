@@ -63,3 +63,16 @@ h6 {
     color: black;
     font-weight: 600;
 }
+
+footer {
+    background-color: #00586ed8;
+    color: white;
+    padding: 25px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#spanfooter {
+    color: rgb(204, 203, 203);
+    font-size: 80%;
+}
